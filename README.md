@@ -1,4 +1,9 @@
 ## PicTimerZeroCalculator 
+
+<p align = "center" >
+<img src = "ImageNetbeans.png">
+</p>
+
 Please note I am not releasing  code on this just as yet   
 The  application is fully working and will provide you with correct  pre load values for time interrupts ON PIC 16f devices for 8 bit timers 
 
